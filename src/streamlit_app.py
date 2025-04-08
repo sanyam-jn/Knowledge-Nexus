@@ -1,6 +1,12 @@
 import streamlit as st
 import networkx as nx
-import pyvis.network as net
+try:
+    import pyvis.network as net
+except ImportError:
+    st.error("Installing required packages...")
+    import subprocess
+    subprocess.check_call(["pip", "install", "pyvis"])
+    import pyvis.network as net
 from nexus import NEXUS
 import tempfile
 import os
