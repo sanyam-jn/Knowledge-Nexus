@@ -1,6 +1,14 @@
 # Knowledge Nexus
 
-An intelligent system for building and querying knowledge graphs from text. Knowledge Nexus uses natural language processing to extract entities and relationships from text, builds a knowledge graph, and allows users to query the graph using natural language.
+An intelligent system for building and querying knowledge graphs from text. Knowledge Nexus uses natural language processing to extract entities and relationships from text, builds a knowledge graph, and allows users to query the graph using natural language. (http://127.0.0.1:56569/)
+
+
+<img width="1181" alt="Screenshot 2025-04-07 at 6 59 12 PM" src="https://github.com/user-attachments/assets/04a09d3c-41bf-40e8-a76e-2600e33d1f94" />
+
+
+
+
+
 
 ## Features
 
