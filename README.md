@@ -1,4 +1,4 @@
-# Knowledge Nexus
+# Knowledge Nexus: Turning Unstructured Chaos into Queryable Intelligence
 
 An intelligent system for building and querying knowledge graphs from text. Knowledge Nexus uses natural language processing to extract entities and relationships from text, builds a knowledge graph, and allows users to query the graph using natural language. (http://127.0.0.1:56569/)
 
